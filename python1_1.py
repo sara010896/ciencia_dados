@@ -113,5 +113,3 @@ st.markdown(
 )
 
 # Obrigado DSA
-
-!streamlit run /content/dsa_app.py &>/content/logs.txt & npx localtunnel --port 8501
