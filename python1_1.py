@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1nCNfFeFLF-HJSdoiTEa7zV2rBO680t-O
 """
 
-!pip install streamlit
 
 # Estudo de Caso 1 - DSA AI Coder - Criando Seu Assistente de Programação Python, em Python
 
