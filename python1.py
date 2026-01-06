@@ -7,7 +7,7 @@ import os
 import streamlit as st
 
 # Importa a classe Groq para se conectar à API da plataforma Groq e acessar o LLM
-import groq import Groq
+import groq
 
 # Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
 st.set_page_config(
